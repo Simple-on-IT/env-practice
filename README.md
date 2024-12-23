@@ -20,5 +20,5 @@
 * `npm run dev` - сборка для разработки
 
 ## Дополнительные материалы:
-Документация: https://vitejs.ru/guide/env-and-mode.html
-Видео - 
+Документация: https://vitejs.ru/guide/env-and-mode.html  
+Видео - https://youtube.com/shorts/5WVXYIEejag?feature=share
